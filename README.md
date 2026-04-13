@@ -49,4 +49,4 @@ STL files are located here:
 Want to showcase your own remix?
 Let’s collaborate and make tech more lovable 
 
-📧 aarongumba2016@gmail.com
+📧 
